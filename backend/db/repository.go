@@ -4,7 +4,7 @@ import (
 	"context"
 	"database/sql"
 
-	"github.com/mercari-build/mecari-build-hackathon-2023/backend/domain"
+	"github.com/riho8/mecari-build-hackathon-2023/backend/domain"
 )
 
 type UserRepository interface {
